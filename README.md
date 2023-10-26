@@ -12,9 +12,9 @@
 - [Rus](https://github.com/ratihkm/ratihkm/blob/main/Mkhitar_Ovsepian_CV_rus.pdf)
 - [Eng](https://github.com/ratihkm/ratihkm/blob/main/Mkhitar_Ovsepian_CV_eng.pdf)
 
-# Мои проекты / My projects
-- Here you'll find projects done by me during "Data Science" course by Yandex.Praktikum. Reviewers' comments are remained.  
-- В данном репозитории собраны проекты, сделанные мной на курсе "Специалист по Data Science" от Яндекс.Практикума. Комментарии и замечния ревьюеров сохранены.
+# Мои проекты.DS / My projects
+- Here you'll find projects done by me during "Data Science" course by Yandex.Praktikum.
+- В данном репозитории собраны проекты, сделанные мной на курсе "Специалист по Data Science" от Яндекс.Практикума.
 
 | |Название|Задача проекта|Библиотеки|Статус|
 |--|----|----|-|-|
@@ -31,3 +31,8 @@
 |11.| [Прогнозирование количества заказов такси на следующий час](https://github.com/ratihkm/Yandex-DS/blob/main/taxi_forecast.ipynb) | Разработка системы предсказания объема заказа |`Python`, `pandas`, `numpy`, `statsmodel`, `matplotlib`, `sklearn`, `xgboost`, `catboost`, `lightgbm`|<center>✔️</center>| 
 |12.| [Обучение модели классификации комментариев](https://github.com/ratihkm/Yandex-DS/blob/main/nlp_comment_sorting.ipynb) | Определение токсичности комментарии |`Python`, `pandas`, `spacy`, `nltk`, `sklearn`, `lightgbm`|<center>✔️</center>| 
 |13.| [Tелекоммуникации ](https://github.com/ratihkm/Yandex-DS/blob/main/сlient_loss_final_project.ipynb) | Прогноз оттока клиентов |`Python`, `pandas`, `sklearn`, `lightgbm`, `catboost`|<center>✔️</center>|
+
+# Другое / Others
+| |Название|Задача проекта|Библиотеки|Статус|
+|--|----|----|-|-|
+|1.| [Обработка трехмерного микро-КТ изображения. Расчет фильтрационных свойств](https://github.com/ratihkm/Study_projects/blob/main/DCP_project.ipynb) | Предобработать и расчитать фильтрационно-емкостные свойства песчаника, сравнив с данными из статьи.| `Python`,`numpy`,`porespy`,`openpnm` |<center>✔️</center>|
