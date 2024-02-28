@@ -9,8 +9,8 @@
 </div>
 
 # Мое резюме / CV:
-- [Rus](https://github.com/ratihkm/ratihkm/blob/main/Mkhitar_Ovsepian_CV_rus.pdf)
-- [Eng](https://github.com/ratihkm/ratihkm/blob/main/Mkhitar_Ovsepian_CV_eng.pdf)
+- [Rus](https://github.com/ratihkm/ratihkm/blob/main/M_Ovsepian_CV_rus.pdf)
+- [Eng](https://github.com/ratihkm/ratihkm/blob/main/M_Ovsepian_CV_eng.pdf)
 
 # Мои проекты.DS / My projects
 - Here you'll find projects done by me during "Data Science" course by Yandex.Praktikum.
