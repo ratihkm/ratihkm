@@ -35,5 +35,5 @@
 # Другое / Others
 | |Название|Задача проекта|Библиотеки|Статус|
 |--|----|----|-|-|
-|1.| [Обработка трехмерного микро-КТ изображения. Расчет фильтрационных свойств](https://github.com/ratihkm/Study_projects/blob/main/DCP_project.ipynb) | Предобработать и расчитать фильтрационно-емкостные свойства песчаника, сравнив с данными из статьи.| `Python`,`numpy`,`porespy`,`openpnm` |<center>✔️</center>|
-|2.| [Обработка данных ГИС и предсказание проницаемости породы по этим данным.](https://github.com/ratihkm/Study_projects/blob/main/Permeability%20Forecast.ipynb) | Предобработать и предсказать проницаемость песчаника, используя данные каротажей (.las и .dlis).| `Python`,`numpy`,`MLPRegressor` |<center>✔️</center>|
+|1.| [Обработка трехмерного микро-КТ изображения. Расчет фильтрационных свойств](https://github.com/ratihkm/Study_projects/blob/main/DCP_project.ipynb) | Предобработать и расчитать фильтрационно-емкостные свойства песчаника, сравнив с данными из статьи| `Python`,`numpy`,`porespy`,`openpnm` |<center>✔️</center>|
+|2.| [Обработка данных ГИС и предсказание проницаемости породы по этим данным](https://github.com/ratihkm/Study_projects/blob/main/Permeability%20Forecast.ipynb) | Предобработать и предсказать проницаемость песчаника, используя данные каротажей (.las и .dlis)| `Python`,`numpy`,`MLPRegressor` |<center>✔️</center>|
